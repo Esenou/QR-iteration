@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MethodQR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Справочник</string>
+    <string name="nav_header_subtitle">superesenou@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_country">2x2 Матрица</string>
+    <string name="row_text">Заполните коэфициенты симметричную матрицу</string>
+    <string-array name="country_name">
+        <item>2x2 Матрица</item>
+        <item>3x3 Матрица</item>
+        <item>4x4 Матрица</item>
+        <item>5x5 Матрица</item>
+        <item>6x6 Матрица</item>
+        <item>7x7 Матрица</item>
+    </string-array>
+    <string name="title_activity_qr_alghoritm">QrAlghoritm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
